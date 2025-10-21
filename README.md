@@ -36,7 +36,7 @@ En los laboratorios de la *Universidad Santo Tomás (USTA Bogotá)* se emplea el
 
 ---
 
-3. Arquitectura funcional
+## 3. Arquitectura funcional
 
 El PLC Siemens S7-1200 cuenta con una arquitectura modular y jerárquica que incluye:
 
